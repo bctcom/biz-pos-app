@@ -1,3 +1,8 @@
-# My Awesome Book
+# 1、产品介绍
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+收银系统是运行在Android系统上的APP，系统功能包括，条码识别，商品搜索，零售下单，小票打印，扫码支付（微信支付等）。
+
+系统只在特定的机型上进行适配，非特定的机型会可能会出现不兼容的问题。
+
+
+
